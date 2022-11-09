@@ -16,11 +16,11 @@ def check_3Digits(list1):
 
 # Don't call the function, you just need to define it.
 def all_positives(list1):
-   for n in list1:
-     if n > 0:
-      print (" your number is positive")
-     else:
-      print("your number is negative")
+  for n in list1:
+   if n > 0:
+     print (" your number is positive")
+   else:
+    print("your number is negative")
    
 
 ########################################################################################################################
